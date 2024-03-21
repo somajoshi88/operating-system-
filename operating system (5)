@@ -39,7 +39,6 @@ Overall, the goals of protection in an operating system aim to create a secure a
 
 SJJ
 domain of protection
-ChatGPT
 The concept of "domains of protection" in computer security refers to the principle of dividing system resources and processes into distinct domains, each with its own set of access controls and privileges. These domains help enforce security policies and prevent unauthorized access to critical resources. Here's an explanation of the domains of protection:
 
 Process Domains:
