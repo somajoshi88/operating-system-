@@ -18,7 +18,7 @@ In summary, protection and security mechanisms in an operating system are design
 
 SJJ
 goals of protection
-ChatGPT
+
 The goals of protection in an operating system are aimed at ensuring the security, integrity, and availability of system resources and user data. These goals can be summarized as follows:
 
 Data Integrity: Protection mechanisms aim to prevent unauthorized modification, deletion, or corruption of data. This ensures that data remains accurate, reliable, and consistent throughout its lifecycle.
